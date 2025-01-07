@@ -34,7 +34,7 @@ The dataset includes features extracted from Spotify tracks:
 | valence | The positivity conveyed by the track |
 | tempo | The average tempo of the track in beats per minute (BPM) |
 | time_signature | The time signature of the track |
-| duration_minutes | The duration of the track in minutes |
+| duration_ms | The duration of the track in milliseconds |
 
 ## Tools and Libraries
 - **Python Libraries:**
