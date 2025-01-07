@@ -1,5 +1,8 @@
 # Spotify Data Analysis
 
+![Notebook_banner_image](Assets/Banner Photo - Musical_notes.JPG)
+
+
 ## Overview
 This project involves exploring and visualizing Spotify's music dataset to uncover trends, insights, and patterns in the data. By leveraging visualizations, I aim to better understand the relationships between different features and their impact on music recommendations, popularity, and user preferences.
 
