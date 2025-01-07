@@ -1,13 +1,27 @@
-# Spotify Data Visualizations
+# Spotify Data Analysis
 
 ## Overview
-This project involves exploring and visualizing Spotify's music dataset to uncover trends, insights, and patterns in the data. By leveraging visualizations, we aim to better understand the relationships between different features and their impact on music recommendations, popularity, and user preferences.
+This project involves exploring and visualizing Spotify's music dataset to uncover trends, insights, and patterns in the data. By leveraging visualizations, I aim to better understand the relationships between different features and their impact on music recommendations, popularity, and user preferences.
 
 ## Goals
 1. **Understand Data Distribution:** Explore feature distributions such as song popularity, duration, tempo, and energy levels.
 2. **Identify Relationships:** Analyze correlations between features like danceability, energy, and loudness.
 3. **Highlight Patterns:** Showcase trends in music attributes over time.
 4. **Provide Insights for Recommendations:** Use visualizations to support the rationale for building recommendation systems.
+
+## Repository Structure
+- **Assets/**  
+
+- **Reports/**  
+
+- **README.md**  
+
+- **SpotifyMillionSongs.ipynb**  
+
+- **SpotifyMillionSongs_Clustering.ipynb**  
+
+- **report.html**  
+
 
 ## Data Description
 The dataset includes features extracted from Spotify tracks:
