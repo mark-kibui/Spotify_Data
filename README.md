@@ -10,17 +10,18 @@ This project involves exploring and visualizing Spotify's music dataset to uncov
 4. **Provide Insights for Recommendations:** Use visualizations to support the rationale for building recommendation systems.
 
 ## Repository Structure
-- **Assets/**  
+- [**Assets/**](Assets)  
 
-- **Reports/**  
+- [**Reports/**](Reports)  
 
-- **README.md**  
+- [**README.md**](README.md)  
 
-- **SpotifyMillionSongs.ipynb**  
+- [**SpotifyMillionSongs.ipynb**](SpotifyMillionSongs.ipynb)  
 
-- **SpotifyMillionSongs_Clustering.ipynb**  
+- [**SpotifyMillionSongs_Clustering.ipynb**](SpotifyMillionSongs_Clustering.ipynb)  
 
-- **report.html**  
+- [**report.html**](report.html)  
+  
 
 
 ## Data Description
