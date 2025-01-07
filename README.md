@@ -1,6 +1,6 @@
 # Spotify Data Analysis
 
-![Notebook_banner_image](Assets/Banner Photo - Musical_notes.JPG)
+![Notebook_banner_image](Assets/music-production-banner.jpg)
 
 
 ## Overview
