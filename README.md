@@ -15,6 +15,25 @@ The dataset includes features extracted from Spotify tracks:
 - **Audio Features:** Danceability, energy, loudness, tempo, acousticness, instrumentalness, liveness, valence, and speechiness.
 - **Popularity Metrics:** Song popularity score.
 - **Temporal Data:** Release year.
+- Below is a tabular representation of columns and their description
+| Feature Name | Description |
+| :--- | :--- |
+| popularity | A measure of the song's popularity on Spotify |
+| year | The year the song was released |
+| genre | The primary genre of the song |
+| danceability | Describes how suitable the track is for dancing |
+| energy | Represents the perceived intensity and activity level of the track |
+| key | The musical key of the song |
+| loudness | The overall loudness of the track in decibels (dB) |
+| mode | Indicates whether the track is in major (1) or minor (0) key |
+| speechiness | The presence of spoken words in the track |
+| acousticness | A confidence measure of whether the track is acoustic |
+| instrumentalness | The presence of vocals in the track |
+| liveness | A confidence measure of whether the track was performed live |
+| valence | The positivity conveyed by the track |
+| tempo | The average tempo of the track in beats per minute (BPM) |
+| time_signature | The time signature of the track |
+| duration_minutes | The duration of the track in minutes |
 
 ## Tools and Libraries
 - **Python Libraries:**
