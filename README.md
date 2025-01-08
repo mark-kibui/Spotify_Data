@@ -119,6 +119,8 @@ The dataset includes features extracted from Spotify tracks. Below is a tabular 
 ![Heatmap](Assets/Top_5_Pop_artists.png)
 - Top Pop artists are `Taylor Swift`, `The Weeknd`, `Lana Del Rey` and so on.
 
+---
+
 # Conclusion
 
 This project provides valuable insights into Spotify's music dataset, revealing key trends and patterns in audio features, genre popularity, and artist contributions. Notable findings include:
@@ -136,7 +138,6 @@ This project provides valuable insights into Spotify's music dataset, revealing 
    - Modern hip-hop and pop artists such as `Drake`,`Taylor Swift,` and `The Weeknd` stand out as leading contributors to their genres.
 These insights underline the dynamic nature of music preferences and the evolving characteristics of successful tracks.
 
----
 
 # Recommendations
 
