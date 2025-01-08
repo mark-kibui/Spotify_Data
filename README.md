@@ -109,6 +109,15 @@ The dataset includes features extracted from Spotify tracks. Below is a tabular 
 - **Features:**
   - Hover functionality for detailed track information.
   - Filters for specific genres and time ranges.
+  
+![Heatmap](Assets/Artist_name_wordcloud.png)
+- The artist `Traditional` has the most songs as a single artist followed `Grateful Dead`
+
+![Heatmap](Assets/Top_5_Hiphop_artists.png)
+- Top hiphop artists are `Suicideboys`, `Drake`, `Future` and so on.
+
+![Heatmap](Assets/Top_5_Pop_artists.png)
+- Top Pop artists are `Taylor Swift`, `The Weeknd`, `Lana Del Rey` and so on.
 
 # Conclusion
 
