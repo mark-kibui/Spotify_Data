@@ -25,7 +25,7 @@ This project involves exploring and visualizing Spotify's music dataset to uncov
 
 - [**report.html**](report.html)  
   
-
+Find a snapshot of the PowerBi dashboard in pdf format here: [**dashboard_pdf**](Assets/Spotify_Data_Analysis.pdf) and the file here: [**dashboard**](Assets/Spotify_Data_Analysis.pbix)
 
 ## Data Description
 The dataset includes features extracted from Spotify tracks. Below is a tabular representation of columns and their description
